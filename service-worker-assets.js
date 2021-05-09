@@ -185,7 +185,7 @@
       "url": "img\/world.png"
     },
     {
-      "hash": "sha256-MhSGlXFjJ7VjEgEnlZV2WRNnBzjvYS\/29AtlzhzDE60=",
+      "hash": "sha256-LCQsAwCf56YIHKhAD6\/eewb4NbKmJi0wVgSqoNl\/iAQ=",
       "url": "index.html"
     },
     {
@@ -209,7 +209,7 @@
       "url": "Js\/Site.js"
     },
     {
-      "hash": "sha256-1k3vVaPpaNWD0\/ZL3Sdp3NgTw95I7W1fBfrUpZXBIxk=",
+      "hash": "sha256-vxxKUGebuxzxZ0cA3ChC5x+7DIhB2TWt9gmXiAsGEXk=",
       "url": "manifest.json"
     },
     {
@@ -553,5 +553,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "i3BGSi08"
+  "version": "dDiR2MNk"
 };

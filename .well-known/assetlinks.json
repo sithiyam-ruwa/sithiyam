@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.bitblazers.sithiyam",
+               "sha256_cert_fingerprints": ["5B:EE:74:38:9D:51:EA:4A:2E:5E:96:B5:5C:96:69:FA:0A:A9:1C:75:FF:0A:93:AB:65:38:CF:82:3F:3D:DE:9C"] }
+}]

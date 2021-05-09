@@ -37,6 +37,18 @@
       "url": "css\/bootstrap.css"
     },
     {
+      "hash": "sha256-g1NRT3Es1oIWYH4qAzHtoPes3acDvK+AlkoRJAQTogw=",
+      "url": "css\/flexslider.css"
+    },
+    {
+      "hash": "sha256-nJBt45AeqXkd\/TifAvJCfA3RG+lw2f5Co7Ub\/czdcEQ=",
+      "url": "css\/icomoon.css"
+    },
+    {
+      "hash": "sha256-Tp7unxfgOhX9+dEuY1KYZ9vuJdoKctx3zClaiWZ+Npo=",
+      "url": "css\/Login.css"
+    },
+    {
       "hash": "sha256-YLsPAOZ6ZSVnttc0YTuBqpeTS3JS1+0achgsGt1YPwM=",
       "url": "css\/Other.css"
     },
@@ -51,10 +63,6 @@
     {
       "hash": "sha256-Gm\/dO722btDSTEHoWdnGIdvGXEQcnvDabXhWDpm7F28=",
       "url": "css\/Window.css"
-    },
-    {
-      "hash": "sha256-ow+cp6fwYx9NAKbXdLv2KNZ6q52tFhIuIFxb7JJq31E=",
-      "url": "debug.log"
     },
     {
       "hash": "sha256-PShCF5a5cVFRFfqShuj0IftoJxZCyzUb0kLVUdypREg=",
@@ -177,7 +185,7 @@
       "url": "img\/world.png"
     },
     {
-      "hash": "sha256-B0OjevryYEGrK6CzJ7A0ac9BCKZqer+0HTF5JpKduCg=",
+      "hash": "sha256-wZnLiLGcBIMds9XV42rXNySeLb88FwRiYUboDafZJdc=",
       "url": "index.html"
     },
     {
@@ -201,7 +209,7 @@
       "url": "Js\/Site.js"
     },
     {
-      "hash": "sha256-vxxKUGebuxzxZ0cA3ChC5x+7DIhB2TWt9gmXiAsGEXk=",
+      "hash": "sha256-1k3vVaPpaNWD0\/ZL3Sdp3NgTw95I7W1fBfrUpZXBIxk=",
       "url": "manifest.json"
     },
     {
@@ -437,7 +445,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-d8KamNs3YX1E5oAnHDgaIAD7J8ezCQRyIc8ZRM+bScs=",
+      "hash": "sha256-8h9hNl4ePvTgGMuTEHZIJ41tTfwqUWA5NQAgtJ5cpek=",
       "url": "_framework\/Vidusaviya.Maps.dll"
     },
     {
@@ -537,7 +545,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-ggRyol1IawQ5VqdoP3eqURaDI3R4JRyjTZKzUsdoYYM=",
+      "hash": "sha256-bBLTFVgUbY8r+Toe05SM3ezUuis5LPHh\/gubmIYZLuw=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -545,5 +553,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "EUKGECDG"
+  "version": "Z2pCQqY7"
 };

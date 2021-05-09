@@ -3,82 +3,24 @@
 
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes" />
-    <title>Sithiyam</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>blazorwasmpwaclean</title>
     <base href="/" />
-    <link href="css/bootstrap.css" rel="stylesheet" />
-    <link href="css/style.css" rel="stylesheet" />
-    <link href="css/Site.css" rel="stylesheet" />
+    <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link href="css/app.css" rel="stylesheet" />
-    <link href="css/Other.css" rel="stylesheet" />
-    <link href="css/animate.css" rel="stylesheet" />
+    <link href="blazorwasmpwaclean.styles.css" rel="stylesheet" />
     <link href="manifest.json" rel="manifest" />
-    <link rel="apple-touch-icon" sizes="1024x1024" href="img/sithiyam.png" />
-    <script type="text/javascript">
-        (function (l) {
-            if (l.search) {
-                var q = {};
-                l.search.slice(1).split('&').forEach(function (v) {
-                    var a = v.split('=');
-                    q[a[0]] = a.slice(1).join('=').replace(/~and~/g, '&');
-                });
-                if (q.p !== undefined) {
-                    window.history.replaceState(null, null,
-                        l.pathname.slice(0, -1) + (q.p || '') +
-                        (q.q ? ('?' + q.q) : '') +
-                        l.hash
-                    );
-                }
-            }
-        }(window.location))
-    </script>
-
+    <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
 </head>
 
-<body
-    style="background-image: url('img/back2048.jpg'); background-repeat: no-repeat; background-size: cover;min-height:100vh;filter: saturate(120%);">
-    <app>
-        <div style="width: 100%;padding-top: 14vh;height: 100vh">
-            <center style="width:100%">
-                <div class="loadImg"
-                    style="background-image: url('img/sithiyam.png');background-repeat:no-repeat;background-position:center;background-size:contain">
-                </div>
-            </center>
-            <div class="floating-ani">
-                <center style="width:100%">
-                    <div class="spinner-grow" role="status" style="width: 8vh; height: 8vh;color:#6E4C00">
-                        <span class="sr-only">Loading...</span>
-                    </div>
-                    <div class="spinner-grow" role="status" style="width: 8vh; height: 8vh;color:#6E4C00">
-                        <span class="sr-only">Loading...</span>
-                    </div>
-                    <div class="spinner-grow" role="status" style="width: 8vh; height: 8vh;color:#6E4C00">
-                        <span class="sr-only">Loading...</span>
-                    </div>
-                    <div class="spinner-grow" role="status" style="width: 8vh; height: 8vh;color:#6E4C00">
-                        <span class="sr-only">Loading...</span>
-                    </div>
-                    <div class="spinner-grow" role="status" style="width: 8vh; height: 8vh;color:#6E4C00">
-                        <span class="sr-only">Loading...</span>
-                    </div>
-                </center>
-                <center style="width:100%">
-                    <strong style="font-size:2rem">...Loading...</strong>
-                </center>
-            </div>
-        </div>
-    </app>
+<body>
+    <div id="app">Loading...</div>
 
     <div id="blazor-error-ui">
         An unhandled error has occurred.
         <a href="" class="reload">Reload</a>
         <a class="dismiss">🗙</a>
     </div>
-    <script src="Js/jquery.min.js"></script>
-    <script src="Js/bootstrap.min.js"></script>
-    <script src="Js/Site.js"></script>
-    <script src="Js/qrcode.js"></script>
-    <script src="Js/html5-qrcode.js"></script>
     <script src="_framework/blazor.webassembly.js"></script>
     <script>navigator.serviceWorker.register('service-worker.js');</script>
 </body>

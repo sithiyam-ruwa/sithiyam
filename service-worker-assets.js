@@ -9,10 +9,6 @@
       "url": ".nojekyll"
     },
     {
-      "hash": "sha256-+mUYq7VsiHnCZOfqyUAUGm02VslUISg+alldB1aRJjs=",
-      "url": "404.html"
-    },
-    {
       "hash": "sha256-tKf90Kt7EW3ZB1X+XDkJJr2Yjv\/EEHNkRrYIQbRjB1U=",
       "url": "audio\/correct.mp3"
     },
@@ -189,7 +185,7 @@
       "url": "img\/world.png"
     },
     {
-      "hash": "sha256-4sa+9nniKLKKYWngx2Km1h9\/GVWR7NmrMb++edR1o8s=",
+      "hash": "sha256-svv7uY0EaP6Ra9Iv\/D2nykuCQtNHzMzUP4+wk3mVxFU=",
       "url": "index.html"
     },
     {
@@ -557,5 +553,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "yASWoikN"
+  "version": "pWh1dCKm"
 };

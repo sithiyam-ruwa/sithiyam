@@ -9,7 +9,7 @@
       "url": ".nojekyll"
     },
     {
-      "hash": "sha256-LCQsAwCf56YIHKhAD6\/eewb4NbKmJi0wVgSqoNl\/iAQ=",
+      "hash": "sha256-+mUYq7VsiHnCZOfqyUAUGm02VslUISg+alldB1aRJjs=",
       "url": "404.html"
     },
     {
@@ -189,7 +189,7 @@
       "url": "img\/world.png"
     },
     {
-      "hash": "sha256-LCQsAwCf56YIHKhAD6\/eewb4NbKmJi0wVgSqoNl\/iAQ=",
+      "hash": "sha256-4sa+9nniKLKKYWngx2Km1h9\/GVWR7NmrMb++edR1o8s=",
       "url": "index.html"
     },
     {
@@ -449,7 +449,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-M0M8e7cKQtFf7ddLBnpNPvm7f8Dp\/XL9PgBNrU6tcVE=",
+      "hash": "sha256-IsT+LaQRO4R7EOWZHZjasnqpjQ9mIPzGTJc4wcnxWsE=",
       "url": "_framework\/Vidusaviya.Maps.dll"
     },
     {
@@ -549,7 +549,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-M2bM+\/ry1JGIQqT3Xvu4B7C6LuxtNKHqI6cTa39xnRg=",
+      "hash": "sha256-v4lN0YQ+QbWDA\/oKZOwFGzFwnk7n5CJTOT7CqoKrsH4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -557,5 +557,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "Fk97DdJI"
+  "version": "pxjWm5zd"
 };

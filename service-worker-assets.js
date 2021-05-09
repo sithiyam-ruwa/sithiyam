@@ -185,7 +185,7 @@
       "url": "img\/world.png"
     },
     {
-      "hash": "sha256-wZnLiLGcBIMds9XV42rXNySeLb88FwRiYUboDafZJdc=",
+      "hash": "sha256-Um0B\/12+6esVCHSVBGiswNae1gU6tByIh5NMb3RAHYs=",
       "url": "index.html"
     },
     {
@@ -553,5 +553,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "Z2pCQqY7"
+  "version": "Ngc2R4uA"
 };

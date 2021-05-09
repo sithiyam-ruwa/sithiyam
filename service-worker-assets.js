@@ -5,8 +5,12 @@
       "url": ".gitattributes"
     },
     {
-      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "hash": "sha256-AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=",
       "url": ".nojekyll"
+    },
+    {
+      "hash": "sha256-Zuk5FBfP0yb50RLMiuUPiJa7spI\/W87RjjD3z6PT82U=",
+      "url": "404.html"
     },
     {
       "hash": "sha256-tKf90Kt7EW3ZB1X+XDkJJr2Yjv\/EEHNkRrYIQbRjB1U=",
@@ -553,5 +557,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "dDiR2MNk"
+  "version": "eopVZVLT"
 };

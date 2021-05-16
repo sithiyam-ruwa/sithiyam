@@ -79,7 +79,7 @@ async function onFetch(event) {
         }
 
 
-        var response = await fetch(req)
+        var response = await fetch(req, { redirect: "follow" })
         // Put a copy of the response in the runtime cache.
         return cache.put(req.url, response.clone()).then(() => {
             return response;

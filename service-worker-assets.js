@@ -149,10 +149,6 @@
       "url": "img\/ruwan2.png"
     },
     {
-      "hash": "sha256-nuEDswUxkemfQwL7u\/x\/Ry7FP\/+St94472X2CRJ4h7w=",
-      "url": "img\/Screenshots\/1.png"
-    },
-    {
       "hash": "sha256-nqD6eBJSfAuQCCYDIv5ZNEpZslKIPAi+a6Uyt9WktE4=",
       "url": "img\/sithiyam.png"
     },
@@ -557,5 +553,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "LyNnw3kJ"
+  "version": "pfsp7coD"
 };

@@ -111,9 +111,18 @@ window.ForceRelord = function () {
     location.reload(true);
 };
 
+window.OpenLink = function(url) {
+    window.open(url, '_self');
+};
+
 window.animatethis = function (targetElement, speed) {
-    var scrollWidth = $(targetElement).get(0).scrollWidth;
-    var clientWidth = $(targetElement).get(0).clientWidth;
+    var ele = $(targetElement).get(0);
+    if (!ele) {
+        return;
+    }
+    var scrollWidth = ele.scrollWidth;
+    var clientWidth = ele.clientWidth;
+    
     $(targetElement).animate({ scrollLeft: scrollWidth - clientWidth },
         {
             duration: speed,
@@ -171,25 +180,3 @@ window.GoBack = () => {
     window.history.back();
 }
 
-
-//const shareButton = document.querySelector('.share-button');
-//const shareDialog = document.querySelector('.share-dialog');
-//const closeButton = document.querySelector('.close-button');
-
-//shareButton.addEventListener('click', event => {
-//    if (navigator.share) {
-//        navigator.share({
-//            title: 'WebShare API Demo',
-//            url: 'https://codepen.io/ayoisaiah/pen/YbNazJ'
-//        }).then(() => {
-//            console.log('Thanks for sharing!');
-//        })
-//            .catch(console.error);
-//    } else {
-//        shareDialog.classList.add('is-open');
-//    }
-//});
-
-//closeButton.addEventListener('click', event => {
-//    shareDialog.classList.remove('is-open');
-//});

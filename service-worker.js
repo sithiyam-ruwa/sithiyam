@@ -88,4 +88,4 @@ async function onFetch(event) {
 
     }
 }
-/* Manifest version: CrW9hrWI */
+/* Manifest version: OXFiwVzi */
